@@ -1,4 +1,4 @@
-# LIFF Starter
+# LIFF Starter2
 
 LIFF Starter is a good starter template can help you understand how to integrate LIFF into your own development environment.
 
@@ -67,4 +67,3 @@ $ netlify deploy --prod
 You can also check official site before you trying it.
 
 https://liff-starter.netlify.app
-
